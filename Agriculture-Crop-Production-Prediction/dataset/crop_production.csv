@@ -1,0 +1,120 @@
+State,District,Season,Crop,Area,Production
+Uttar Pradesh,Bulandshahr,Rabi,Wheat,12500,43750.0
+Uttar Pradesh,Aligarh,Rabi,Wheat,14200,48280.0
+Uttar Pradesh,Agra,Rabi,Wheat,9800,31360.0
+Uttar Pradesh,Mathura,Rabi,Wheat,11000,36300.0
+Uttar Pradesh,Meerut,Whole Year,Sugarcane,18000,1332000.0
+Uttar Pradesh,Gorakhpur,Whole Year,Sugarcane,15500,1116000.0
+Uttar Pradesh,Bulandshahr,Whole Year,Sugarcane,12000,888000.0
+Uttar Pradesh,Aligarh,Whole Year,Sugarcane,8500,612000.0
+Uttar Pradesh,Meerut,Kharif,Maize,4100,11480.0
+Uttar Pradesh,Agra,Rabi,Potato,6500,149500.0
+Punjab,Ludhiana,Rabi,Wheat,22000,96800.0
+Punjab,Amritsar,Rabi,Wheat,18500,79550.0
+Punjab,Patiala,Rabi,Wheat,20400,89760.0
+Punjab,Jalandhar,Rabi,Wheat,17000,73100.0
+Punjab,Bathinda,Rabi,Wheat,19500,79950.0
+Punjab,Ludhiana,Kharif,Rice,21500,90300.0
+Punjab,Amritsar,Kharif,Rice,19000,77900.0
+Punjab,Patiala,Kharif,Rice,20000,84000.0
+Punjab,Jalandhar,Kharif,Rice,16500,67650.0
+Punjab,Firozpur,Kharif,Rice,23000,94300.0
+Maharashtra,Pune,Whole Year,Sugarcane,14000,1050000.0
+Maharashtra,Nashik,Whole Year,Sugarcane,11500,839500.0
+Maharashtra,Kolhapur,Whole Year,Sugarcane,25000,1950000.0
+Maharashtra,Satara,Whole Year,Sugarcane,13000,975000.0
+Maharashtra,Solapur,Kharif,Cotton,16000,28800.0
+Maharashtra,Nagpur,Kharif,Cotton,19500,37050.0
+Maharashtra,Pune,Kharif,Soyabean,8500,11900.0
+Maharashtra,Nashik,Kharif,Soyabean,9000,12150.0
+Maharashtra,Satara,Kharif,Soyabean,7200,10080.0
+Maharashtra,Nagpur,Kharif,Soyabean,10500,14175.0
+Karnataka,Belagavi,Whole Year,Sugarcane,16500,1221000.0
+Karnataka,Mandya,Whole Year,Sugarcane,12000,900000.0
+Karnataka,Mysuru,Kharif,Rice,10200,36720.0
+Karnataka,Tumakuru,Kharif,Rice,8500,28900.0
+Karnataka,Belagavi,Kharif,Maize,11200,35840.0
+Karnataka,Dharwad,Kharif,Maize,9500,28500.0
+Karnataka,Dharwad,Rabi,Wheat,5400,12960.0
+Karnataka,Shimoga,Kharif,Rice,13500,51300.0
+Karnataka,Tumakuru,Kharif,Groundnut,7800,12480.0
+Karnataka,Mysuru,Summer,Groundnut,3200,5760.0
+Tamil Nadu,Thanjavur,Kharif,Rice,24500,98000.0
+Tamil Nadu,Thanjavur,Summer,Rice,12000,50400.0
+Tamil Nadu,Coimbatore,Kharif,Cotton,4500,8100.0
+Tamil Nadu,Madurai,Kharif,Rice,11000,40700.0
+Tamil Nadu,Salem,Whole Year,Sugarcane,9500,693500.0
+Tamil Nadu,Trichy,Whole Year,Sugarcane,10200,744600.0
+Tamil Nadu,Erode,Whole Year,Sugarcane,11000,814000.0
+Tamil Nadu,Salem,Kharif,Groundnut,8200,15580.0
+Tamil Nadu,Erode,Kharif,Groundnut,6500,12350.0
+Tamil Nadu,Coimbatore,Rabi,Maize,7400,25900.0
+West Bengal,Bardhaman,Kharif,Rice,26000,104000.0
+West Bengal,Murshidabad,Kharif,Rice,21000,81900.0
+West Bengal,Medinipur,Kharif,Rice,25000,97500.0
+West Bengal,Hooghly,Rabi,Potato,15000,360000.0
+West Bengal,Bardhaman,Rabi,Potato,12500,287500.0
+West Bengal,Nadia,Summer,Rice,9800,39200.0
+West Bengal,Birbhum,Kharif,Rice,14500,55100.0
+West Bengal,Hooghly,Kharif,Rice,11200,43680.0
+West Bengal,Murshidabad,Rabi,Mustard,7200,9360.0
+West Bengal,Nadia,Rabi,Mustard,6800,8840.0
+Madhya Pradesh,Indore,Rabi,Wheat,11500,36800.0
+Madhya Pradesh,Bhopal,Rabi,Wheat,10200,31620.0
+Madhya Pradesh,Ujjain,Rabi,Wheat,15000,49500.0
+Madhya Pradesh,Gwalior,Rabi,Wheat,8900,27590.0
+Madhya Pradesh,Jabalpur,Rabi,Wheat,12200,39040.0
+Madhya Pradesh,Indore,Kharif,Soyabean,18000,21600.0
+Madhya Pradesh,Bhopal,Kharif,Soyabean,14500,16675.0
+Madhya Pradesh,Ujjain,Kharif,Soyabean,24000,28800.0
+Madhya Pradesh,Dhar,Kharif,Soyabean,19000,22800.0
+Madhya Pradesh,Gwalior,Rabi,Mustard,9500,12350.0
+Uttar Pradesh,Mathura,Rabi,Mustard,5400,7560.0
+Uttar Pradesh,Meerut,Rabi,Wheat,13000,45500.0
+Punjab,Bathinda,Kharif,Cotton,11000,20900.0
+Punjab,Firozpur,Rabi,Wheat,21000,92400.0
+Maharashtra,Kolhapur,Kharif,Rice,4800,15360.0
+Maharashtra,Solapur,Rabi,Wheat,6200,14260.0
+Karnataka,Belagavi,Rabi,Wheat,7100,17750.0
+Karnataka,Dharwad,Kharif,Cotton,6500,10400.0
+Tamil Nadu,Trichy,Kharif,Rice,12000,44400.0
+West Bengal,Murshidabad,Rabi,Wheat,5500,15400.0
+West Bengal,Nadia,Rabi,Potato,8500,195500.0
+Madhya Pradesh,Indore,Kharif,Maize,4800,12000.0
+Madhya Pradesh,Jabalpur,Kharif,Rice,7800,21060.0
+Uttar Pradesh,Gorakhpur,Kharif,Rice,16000,54400.0
+Uttar Pradesh,Meerut,Rabi,Potato,4200,96600.0
+Punjab,Ludhiana,Rabi,Potato,5100,119850.0
+Punjab,Amritsar,Summer,Maize,2500,7500.0
+Maharashtra,Nashik,Rabi,Wheat,7800,19500.0
+Maharashtra,Kolhapur,Rabi,Wheat,5200,13520.0
+Karnataka,Mandya,Kharif,Rice,9800,36260.0
+Karnataka,Shimoga,Rabi,Maize,6200,21080.0
+Tamil Nadu,Salem,Kharif,Rice,9100,33670.0
+Tamil Nadu,Coimbatore,Summer,Rice,4100,16810.0
+West Bengal,Birbhum,Rabi,Wheat,4800,13920.0
+West Bengal,Bardhaman,Summer,Rice,13000,54600.0
+Madhya Pradesh,Dhar,Rabi,Wheat,14200,44020.0
+Madhya Pradesh,Bhopal,Rabi,Mustard,5900,7375.0
+Uttar Pradesh,Mathura,Kharif,Bajra,7800,14040.0
+Punjab,Patiala,Summer,Maize,3400,10200.0
+Maharashtra,Nagpur,Rabi,Wheat,6400,15360.0
+Karnataka,Mysuru,Rabi,Wheat,3500,8750.0
+Tamil Nadu,Thanjavur,Rabi,Maize,5500,19800.0
+West Bengal,Hooghly,Rabi,Wheat,4200,11760.0
+Madhya Pradesh,Gwalior,Kharif,Maize,5100,11730.0
+Uttar Pradesh,Agra,Kharif,Bajra,8900,15130.0
+Punjab,Ludhiana,Summer,Groundnut,1200,2280.0
+Maharashtra,Kolhapur,Kharif,Maize,6000,19200.0
+Karnataka,Belagavi,Kharif,Rice,12500,45000.0
+Tamil Nadu,Salem,Kharif,Cotton,3800,6460.0
+West Bengal,Medinipur,Rabi,Potato,9000,207000.0
+Madhya Pradesh,Ujjain,Rabi,Mustard,6500,8125.0
+Uttar Pradesh,Meerut,Kharif,Rice,7200,23760.0
+Punjab,Jalandhar,Summer,Maize,2200,6820.0
+Maharashtra,Nashik,Kharif,Groundnut,4500,8100.0
+Karnataka,Tumakuru,Rabi,Wheat,3900,9360.0
+Tamil Nadu,Madurai,Kharif,Groundnut,5200,9360.0
+West Bengal,Murshidabad,Summer,Rice,11500,46000.0
+Madhya Pradesh,Indore,Rabi,Mustard,4100,5125.0
+Uttar Pradesh,Gorakhpur,Rabi,Wheat,13500,44550.0

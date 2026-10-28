@@ -1,0 +1,6 @@
+{
+  "name": "Crop Production Prediction",
+  "description": "AI-powered web application for predicting agriculture crop production in India with interactive dashboards and ML performance analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
